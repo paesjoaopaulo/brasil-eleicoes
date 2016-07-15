@@ -18,5 +18,9 @@
     ,{"cidade": "São Paulo", "nome": "Laércio Benko", "partido": "PRB", "cargo": "Prefeito"}
     ,{"cidade": "São Paulo", "nome": "Major Olímpio", "partido": "Rede", "cargo": "Prefeito"}
     ,{"cidade": "São Paulo", "nome": "Ricardo Young", "partido": "PC do B", "cargo": "Prefeito"}
+  ],
+  "Palmital": [
+     {"cidade": "Palmital", "nome": "José Roberto Ronqui", "partido": "PSD", "cargo": "Prefeito"}
+    ,{"cidade": "Palmital", "nome": "Professora Ismênia", "partido": "PSDB", "cargo": "Prefeito"}
   ]
 }
